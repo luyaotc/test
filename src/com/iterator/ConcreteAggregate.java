@@ -20,3 +20,4 @@ public class ConcreteAggregate implements  Iterable<Entity>{
         return new ConcreteIterator().setConcreteAggregate(this);
     }
 }
+
