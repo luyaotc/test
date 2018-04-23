@@ -4,6 +4,7 @@ import java.util.Iterator;
 import java.util.List;
 
 public class ConcreteAggregate implements  Iterable<Entity>{
+    //1111
     private List<Entity> entitys;
 
     public List<Entity> getEntitys() {

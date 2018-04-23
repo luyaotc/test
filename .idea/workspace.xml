@@ -168,6 +168,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="SearchEverywhereHistoryKey" value="Iterable&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/lang/Iterable.java" />
     <property name="start.from.branch" value="master" />
+    <property name="tasks.open.task.update.state.enabled" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
